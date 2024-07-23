@@ -23,7 +23,7 @@ objects, and methods specify behaviors within these classes. Variables in Java, 
         alt="Placeholder"
         className="photo"
       /> <br/><br/>
-      <button className='kumar'>java</button>
+      <button className='kumar'>readmore</button>
       
     </div>
   );

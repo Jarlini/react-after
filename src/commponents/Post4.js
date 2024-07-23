@@ -20,7 +20,7 @@ const Post4 = () => {
         alt="Placeholder"
         className="photo"
       /><br/><br/>
-      <button className='kumar'>networks </button>
+      <button className='kumar'>readmore </button>
     </div>
   );
 };
